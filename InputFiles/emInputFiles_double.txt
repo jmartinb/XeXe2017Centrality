@@ -1,0 +1,1 @@
+/eos/cms/store/group/phys_heavyions/jmartinb/XeXe2017/MC_STARlight_fixDPMJETcfg/doubleExc/HiForestAOD_STARlight_XeXe5p44TeV_ProdType6_fixDPMJETcfg.root

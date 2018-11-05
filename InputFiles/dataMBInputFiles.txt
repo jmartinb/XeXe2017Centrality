@@ -1,0 +1,2 @@
+/eos/cms/store/group/phys_heavyions/jmartinb/XeXe2017/DATA_MB/crab_HIMinimumBias1/HiForestAOD_MB1.root
+/eos/cms/store/group/phys_heavyions/jmartinb/XeXe2017/DATA_MB/crab_HIMinimumBias3/HiForestAOD_MB3.root

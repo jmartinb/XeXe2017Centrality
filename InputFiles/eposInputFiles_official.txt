@@ -1,0 +1,1 @@
+/eos/cms/store/group/phys_heavyions/jmartinb/XeXe2017/MC_EPOSLHC_OFFICIAL/HiForestAOD_EPOSLHC_official.root

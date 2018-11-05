@@ -1,0 +1,1 @@
+/eos/cms/store/group/phys_heavyions/jmartinb/XeXe2017/DATA_ZB/HiForestAOD_ZB.root
